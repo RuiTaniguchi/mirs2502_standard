@@ -4,6 +4,9 @@ slam_toolbox:
     odom_frame: "odom"
     map_frame: "map"
     base_frame: "base_link"
+    # オドメトリのモデルを指定
+    # (diff-corrected は、オドメトリの誤差も考慮して補正するモード)
+    # odom_model_type: "diff-corrected"
 
     # --- 2. タイムアウト（遅延許容）設定 ---
     transform_timeout: 0.5
