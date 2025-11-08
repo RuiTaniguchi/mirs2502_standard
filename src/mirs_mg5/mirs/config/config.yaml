@@ -18,9 +18,7 @@ parameter_publisher:
     lki : 40.0
     lkd : 2.0
     
-    # rkp : 172.5
-    # rki : 40.0
-    # rkd : 2.0
+    
     # lkp : 20.0
     # lki : 40.0
     # lkd : 2.0
